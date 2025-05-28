@@ -349,6 +349,10 @@ header {
         width: 80%;
     }
 
+    #formation {
+        width: 80%;
+    }
+
     #certificates {
         justify-content: center;
         margin: 3rem 0px;
