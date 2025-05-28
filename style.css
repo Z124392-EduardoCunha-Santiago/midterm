@@ -68,6 +68,12 @@ button {
     transition: background-color 0.3s ease;
 }
 
+a, button {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-focus-ring-color: transparent;
+    outline: none;
+}
+
 button:hover {
     background-color: #093e7a;
 }
